@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EsmeraldaVera
-- 👀 I’m interested in software and game dev
-- 🌱 I’m currently learning Java on Spring
+- 👀 I’m interested in FrontEnd Development
+- 🌱 I’m currently in Austin 
 - 💞️ I’m looking to collaborate on passion projects
 - 📫 How to reach me https://www.linkedin.com/in/cynthia-vera-a9595b1a6/
 
